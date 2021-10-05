@@ -1,0 +1,7 @@
+.vscode
+Pipfile
+Pipfile.lock
+mysqlclient-1.4.6-cp37-cp37m-win32.whl
+
+todolist/db.sqlite3
+todolist/__init__.py
